@@ -6,5 +6,5 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-libc = { version = "0.2.98" }
-evdev-rs = { version = "0.5.0", features = ["serde"] }
+evdev-rs = { version = "0.5.0" }
+evdev = { version = "0.11.0" }
